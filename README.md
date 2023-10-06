@@ -31,7 +31,6 @@ This portfolio website project is designed to showcase my skills, work, and achi
 - HTML5
 - CSS3
 - JavaScript
-- Bootstrap (for responsive design)
 - Git (for version control)
 - GitHub Pages (for hosting)
 
@@ -65,4 +64,4 @@ Feel free to contact me through any of the provided channels for inquiries, coll
 
 ## acknowledgement
 
-Thank you ALX, Coach Cole and Obed for being an amazing and helpful Technical Mentor, every live worth it.
+Thank you ALX, Coach Cole and Obed for being an amazing and helpful Technical Mentor, every live session worth it.
