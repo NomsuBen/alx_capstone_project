@@ -41,7 +41,7 @@ This portfolio website project is designed to showcase my skills, work, and achi
 
 ## Screenshots or Demo:
 
-You can access the live demo of this portfolio website by clicking [here](#).
+You can access the live demo of this portfolio website by clicking [here](https://www.loom.com/share/f9bc9a1d3d1b466e8ca7dd3292daa79e?sid=753392f8-0ba2-4b89-8fee-4ebff1435db3).
 
 _Screenshot:_
 
