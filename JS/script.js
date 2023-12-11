@@ -148,7 +148,8 @@ function validateMessage() {
   return true;
 }
 
-function validateForm() {
+function validateForm(event) {
+  event.preventDefault();
   if (
     !validateName() ||
     !validatePhone() ||
